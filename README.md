@@ -1,8 +1,10 @@
-### olá, esse site ainda está em construção mas se sinta a vontade de navegar e me conhecer.
+## Olá, sou o Kauê Alcântara Leivas, estudante de engenharia de computação no IFSP de birigui
+### Sobre mim:
+- Interesses na area sistemas embarcados, cybersecurity e gerenciamento de sistemas
+- 3º ano da faculdade, sendo atual presidente da empresa Junior Vanellus EJ
 
 <div align="center">
   <a href="https://github.com/yyggrasil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yyggrasil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyggrasil&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
