@@ -1,7 +1,7 @@
 ## Olá, sou o Kauê Alcântara Leivas, estudante de engenharia de computação no IFSP de birigui
 ### Sobre mim:
 - Interesses na area sistemas embarcados, cybersecurity e gerenciamento de sistemas
-- 3º ano da faculdade, sendo atual presidente da empresa Junior Vanellus EJ
+- 4º ano da faculdade
 
 <div align="center">
   <a href="https://github.com/yyggrasil">
